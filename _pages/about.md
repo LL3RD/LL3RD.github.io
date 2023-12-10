@@ -21,7 +21,8 @@ redirect_from:
 
 我的研究领域包括：
 - 计算机视觉
-- 病理图像
+- 病理图像分析
+- 医学图像分析
 
 <span class='anchor' id='-xl'></span>
 
