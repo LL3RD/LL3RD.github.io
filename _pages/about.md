@@ -26,7 +26,7 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2022.09 - *, <a href="https://www.sysu.edu.cn/"><img class="svg" src="/images/sysu_logo.png" width="23pt"></a> 中山大学 计算机学院, 广东广州, 硕士
+- *2022.09 - Now*, <a href="https://www.sysu.edu.cn/"><img class="svg" src="/images/sysu_logo.png" width="23pt"></a> 中山大学 计算机学院, 广东广州, 硕士
 - *2018.09 - 2022.06*, <a href="https://www.sysu.edu.cn/"><img class="svg" src="/images/sysu_logo.png" width="20pt"></a> 中山大学 智能工程学院, 广东广州, 本科
  
 <span class='anchor' id='-lwzl'></span>
@@ -35,6 +35,10 @@ redirect_from:
 
 ### 英文
 ---
+- `Junjia Huang`, Haofeng Li, Xiang Wan, Guanbin Li. UniCell: Universal Cell Nucleus Classification via Prompt Learning.
+*Proceedings of the AAAI Conference on Artificial Intelligence 2024 (AAAI)*
+[[论文]] [[代码]]
+
 - `Junjia Huang`, Haofeng Li, Xiang Wan, Guanbin Li. Affine-Consistent Transformer for Multi-Class Cell Nuclei Detection.
 *Proceedings of the IEEE/CVF International Conference on Computer Vision 2023 (ICCV)*
 [[论文]](https://openaccess.thecvf.com/content/ICCV2023/html/Huang_Affine-Consistent_Transformer_for_Multi-Class_Cell_Nuclei_Detection_ICCV_2023_paper.html) [[代码]](https://github.com/LL3RD/ACFormer)
@@ -61,20 +65,19 @@ redirect_from:
 
 ### 专利
 ---
-- 康宜华, `唐健`. 一种基于铁磁性板的缺陷检测方法. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IBC8DFA9GCB8DEA6FAA9HHFCICA1BAA9ACB9EGC9GAA6AAA)
+- 李灏峰; 黄俊嘉; 万翔; 李冠彬，“一种基于分组提示学习的细胞检测分类方法及系统”，编号CN116844161A，公开日2023/10/03
+- 李灏峰，黄俊嘉，李冠彬，万翔，“基于注意力对称自编码的脑肿瘤自监督预训练方法、装置”，编号CN115035093A，公开日2022/09/09
+- 李灏峰，黄俊嘉，李冠彬，刘周，钟贻洪，陈影影，王云飞，罗德红，万翔，“基于视角解耦Transformer模型的病灶检测方法、装置、设备及介质”，编号CN114549462A，公开日2022/05/27
 
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 荣誉奖项
-- *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
-- *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
-- *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`  
+- *2023.10* 获得 研究生国家奖学金
+- *2021.07* 获得 挑战杯 广东省大学生课外学术科技作品竞赛 `一等奖`
 
 <span class='anchor' id='-xshy'></span>
 
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
-- *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
-- *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
-- *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
+- *2021.09 - Now*, 香港中文大学深圳校区 SRIBD 访问实习生, 深圳
