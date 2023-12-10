@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我将硕士毕业于广东广州的 中山大学 计算机学院，我的导师是李冠彬教授。本科毕业于中山大学大学 智能工程学院。
+我将硕士毕业于广东广州的 中山大学 计算机学院，我的导师是李冠彬教授。本科毕业于 中山大学 智能工程学院。
 
 我的研究领域包括：
 - 计算机视觉
@@ -36,7 +36,11 @@ redirect_from:
 ### 英文
 ---
 
-- `Junjia Huang`, Haofeng Li, 
+- `Junjia Huang`, Chenming Shang, Aolin Xiong, Yuxian Pang, Zhi Jin. Seeing health with eyes: Feature combination for image-based human BMI estimation. *IEEE International Conference on Multimedia and Expo, 2021* (ICME)
+[[论文]](https://ieeexplore.ieee.org/abstract/document/9428234/) [[代码]]
+
+- Zhi Jin, `Junjia Huang`, Wenjin Wang, Aolin Xiong, Xiaojun Tan. Estimating human weight from a single image. *IEEE Transactions on Multimedia, 2022*
+[[论文]](https://ieeexplore.ieee.org/abstract/document/9699418) [[代码]](https://github.com/FVL2020/2DImage2BMI)
 
 - Bo Feng, Jianbo Wu, Hongming Tu, `Jian Tang`, Yihua Kang. A Review of Magnetic Flux Leakage Nondestructive Testing. *Materials*. 2022, 15 (20): 7362. (JCR:Q1; IF:3.748)  
 [[网页]](https://dx.doi.org/10.3390/ma15207362) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf) [[下载]](/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf)
