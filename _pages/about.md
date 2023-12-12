@@ -38,7 +38,7 @@ redirect_from:
 ---
 - `Junjia Huang`, Haofeng Li, Xiang Wan, Guanbin Li. UniCell: Universal Cell Nucleus Classification via Prompt Learning.
 *Proceedings of the AAAI Conference on Artificial Intelligence 2024 (AAAI)*
-[[Paper]] [[Code]]
+[[Paper]] [[Code]](https://github.com/lhaof/UniCell)
 
 - `Junjia Huang`, Haofeng Li, Xiang Wan, Guanbin Li. Affine-Consistent Transformer for Multi-Class Cell Nuclei Detection.
 *Proceedings of the IEEE/CVF International Conference on Computer Vision 2023 (ICCV)*
@@ -60,7 +60,7 @@ redirect_from:
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/9699418) [[Code]](https://github.com/FVL2020/2DImage2BMI)
 
 - `Junjia Huang`, Chenming Shang, Aolin Xiong, Yuxian Pang, Zhi Jin. Seeing health with eyes: Feature combination for image-based human BMI estimation. *IEEE International Conference on Multimedia and Expo, 2021* (ICME)
-[[Paper]](https://ieeexplore.ieee.org/abstract/document/9428234/) [[Code]]
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/9428234/) [[Code]](https://github.com/FVL2020/Features_for_BMI_estimation)
 
 
 
