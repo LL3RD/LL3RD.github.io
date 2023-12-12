@@ -38,29 +38,29 @@ redirect_from:
 ---
 - `Junjia Huang`, Haofeng Li, Xiang Wan, Guanbin Li. UniCell: Universal Cell Nucleus Classification via Prompt Learning.
 *Proceedings of the AAAI Conference on Artificial Intelligence 2024 (AAAI)*
-[[论文]] [[代码]]
+[[Paper]] [[Code]]
 
 - `Junjia Huang`, Haofeng Li, Xiang Wan, Guanbin Li. Affine-Consistent Transformer for Multi-Class Cell Nuclei Detection.
 *Proceedings of the IEEE/CVF International Conference on Computer Vision 2023 (ICCV)*
-[[论文]](https://openaccess.thecvf.com/content/ICCV2023/html/Huang_Affine-Consistent_Transformer_for_Multi-Class_Cell_Nuclei_Detection_ICCV_2023_paper.html) [[代码]](https://github.com/LL3RD/ACFormer)
+[[Paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Huang_Affine-Consistent_Transformer_for_Multi-Class_Cell_Nuclei_Detection_ICCV_2023_paper.html) [[Code]](https://github.com/LL3RD/ACFormer)
 
 - `Junjia Huang`, Haofeng Li, Weijun Sun, Xiang Wan, Guanbin Li. Prompt-based grouping transformer for nucleus detection and classification. *International Conference on Medical Image Computing and Computer-Assisted Intervention 2023 (MICCAI)*
-[[论文]](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_55) [[代码]](https://github.com/LL3RD/PGT)
+[[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_55) [[Code]](https://github.com/LL3RD/PGT)
 
 - `Junjia Huang`, Haofeng Li, Guanbin Li, Xiang Wan. Attentive symmetric autoencoder for brain MRI segmentation. *International Conference on Medical Image Computing and Computer-Assisted Intervention 2022 (MICCAI)*
-[[论文]](https://link.springer.com/chapter/10.1007/978-3-031-16443-9_20) [[代码]](https://github.com/LL3RD/ASA)
+[[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-16443-9_20) [[Code]](https://github.com/LL3RD/ASA)
 
 - Haofeng Li, `Junjia Huang`, Guanbin Li, Zhou Liu, Yihong Zhong, Yingying Chen, Yunfei Wang, Xiang Wan. View-disentangled transformer for brain lesion detection. *2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI)*
-[[论文]](https://ieeexplore.ieee.org/abstract/document/9761542) [[代码]](https://github.com/LL3RD/ISBI-VDFormer)
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/9761542) [[Code]](https://github.com/LL3RD/ISBI-VDFormer)
 
 - Zhi Jin, `Junjia Huang`, Aolin Xiong, Yuxian Pang, Wenjin Wang, Beichen Ding. Attention guided deep features for accurate body mass index estimation. *Pattern Recognition Letters 154 (2022): 22-28.*
-[[论文]](https://www.sciencedirect.com/science/article/abs/pii/S0167865522000022) [[代码]](https://github.com/FVL2020/2DImageBMIestimationEnd2End)
+[[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0167865522000022) [[Code]](https://github.com/FVL2020/2DImageBMIestimationEnd2End)
 
 - Zhi Jin, `Junjia Huang`, Wenjin Wang, Aolin Xiong, Xiaojun Tan. Estimating human weight from a single image. *IEEE Transactions on Multimedia, 2022*
-[[论文]](https://ieeexplore.ieee.org/abstract/document/9699418) [[代码]](https://github.com/FVL2020/2DImage2BMI)
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/9699418) [[Code]](https://github.com/FVL2020/2DImage2BMI)
 
 - `Junjia Huang`, Chenming Shang, Aolin Xiong, Yuxian Pang, Zhi Jin. Seeing health with eyes: Feature combination for image-based human BMI estimation. *IEEE International Conference on Multimedia and Expo, 2021* (ICME)
-[[论文]](https://ieeexplore.ieee.org/abstract/document/9428234/) [[代码]]
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/9428234/) [[Code]]
 
 
 
